@@ -11,6 +11,7 @@ allowing for a deeper understanding of workforce trends.
 	Key Metrics:
 
 The dashboard tracks and visualizes the following key metrics:
+
 •	Total Employees: 1470
 •	Attrition: 237
 •	Attrition Rate: 16.1%
