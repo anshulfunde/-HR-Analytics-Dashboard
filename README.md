@@ -1,12 +1,15 @@
-	HR Analytics Dashboard
+	HR Analytics Dashboard:
+
 This repository contains an HR Analytics Dashboard designed to provide valuable insights into employee attrition and other key metrics within an organization.  
 The dashboard helps HR professionals make data-driven decisions to improve employee retention strategies.
 
-	Overview
+	Overview:
+
 This dashboard offers a comprehensive view of employee data, focusing on attrition analysis. It provides insights into various factors contributing to attrition,
 allowing for a deeper understanding of workforce trends.
 
-	Key Metrics
+	Key Metrics:
+
 The dashboard tracks and visualizes the following key metrics:
 •	Total Employees: 1470
 •	Attrition: 237
@@ -15,7 +18,8 @@ The dashboard tracks and visualizes the following key metrics:
 •	Average Salary: $6.5K
 •	Average Years at Company: 7.0
 
-	Attrition Breakdown
+	Attrition Breakdown: 
+
 The dashboard provides detailed breakdowns of attrition by various factors:
 1.	Education Field:
 2.	Life Sciences (38%)
